@@ -16,3 +16,4 @@
 * https://community.sap.com/t5/technology-blog-posts-by-members/consuming-data-from-databricks-to-datasphere/ba-p/13970398
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-building-an-intelligent-enterprise-with-ai-unleashed-part-1/ba-p/14166813
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-building-an-intelligent-enterprise-with-ai-unleashed-part-5/ba-p/14178056
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-how-to-use-automl-to-forecast-sales-data/ba-p/14174354
