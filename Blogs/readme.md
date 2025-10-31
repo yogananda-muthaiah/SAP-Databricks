@@ -22,3 +22,4 @@
 * https://community.sap.com/t5/technology-blog-posts-by-members/building-custom-llm-agent-in-databricks-an-example-generating-ai-responses/ba-p/14223274
 * https://community.sap.com/t5/technology-blog-posts-by-sap/using-fedml-library-with-sap-datasphere-and-databricks/ba-p/13568923
 * https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-import-data-from-databricks-spark-on-aws-to-sap-analytics-cloud/ba-p/13763611
+* https://community.sap.com/t5/technology-blog-posts-by-sap/bw-data-product-generator-to-databricks-enterprise-capability/ba-p/14251192
