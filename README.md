@@ -1,8 +1,8 @@
 # SAP Databricks
 
 
-* []()
-* []()
+* [SAP Business Data Cloud Documentation](https://help.sap.com/docs/business-data-cloud?locale=en-US&state=PRODUCTION&version=SHIP)
+* [SAP Databricks](https://help.sap.com/docs/business-data-cloud/sap-databricks/introducing-sap-databricks)
 * [Databricks - AWS Documentation](https://docs.databricks.com/aws/en/introduction/)
 * [Databricks - SAP Documentation](https://docs.databricks.com/sap/en)
 * [SAP Business Data Cloud Capacity Unit Estimator](https://bdc-pricing-estimator-sac-sacus10.cfapps.us10.hana.ondemand.com/)
