@@ -23,3 +23,4 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/using-fedml-library-with-sap-datasphere-and-databricks/ba-p/13568923
 * https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-import-data-from-databricks-spark-on-aws-to-sap-analytics-cloud/ba-p/13763611
 * https://community.sap.com/t5/technology-blog-posts-by-sap/bw-data-product-generator-to-databricks-enterprise-capability/ba-p/14251192
+* https://community.sap.com/t5/sap-business-technology-platform-blog-posts/go-further-with-sap-business-data-cloud-as-an-sap-partner/bc-p/14317484#M1605
