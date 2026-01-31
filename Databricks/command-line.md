@@ -5,3 +5,9 @@
 ```
 databricks current-user me
 ```
+
+
+#### To find Secrets
+```
+databricks secrets list-scopes
+```
