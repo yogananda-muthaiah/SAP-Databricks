@@ -11,7 +11,7 @@
 ### Learnings
 
 * [Basic of SAP Databricks](https://learning.sap.com/courses/bt_bdc)
-* []()
+* [Introducing SAP Databricks](https://learning.sap.com/courses/introducing-sap-databricks)
 * []()
 * []()
 * []()
