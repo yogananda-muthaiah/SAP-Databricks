@@ -4,6 +4,7 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-plotly-a-deadly-match-for-analytics-excellence/ba-p/14247815
 * https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-connect-your-personal-github-to-sap-databricks/ba-p/14247803
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sharing-data-products-from-sap-databricks-to-sap-business-data-cloud/ba-p/14247777
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-notebook-supported-programming-languages/ba-p/14319221
 
 
 
