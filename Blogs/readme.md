@@ -7,6 +7,7 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-notebook-supported-programming-languages/ba-p/14319221
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-query-history-deep-dive-into-its-features-benefits-and/ba-p/14319311
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-cli-unlocking-automation-and-efficiency-in-data-engineering/ba-p/14319318
+* https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-store-and-manage-sap-secrets-using-sap-databricks-cli-a-developer-s/ba-p/14323394
 
 
 
