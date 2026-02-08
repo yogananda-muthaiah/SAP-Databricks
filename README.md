@@ -12,7 +12,7 @@
 
 * [Basic of SAP Databricks](https://learning.sap.com/courses/bt_bdc)
 * [Introducing SAP Databricks](https://learning.sap.com/courses/introducing-sap-databricks)
-* []()
+* [Data Center Availability in SAP Business Data Cloud](https://help.sap.com/docs/business-data-cloud/product-availability-information/data-center-availability-in-sap-business-data-cloud?state=DRAFT&version=DEV)
 * []()
 * []()
 * []()
