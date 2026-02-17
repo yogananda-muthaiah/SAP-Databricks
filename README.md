@@ -32,3 +32,4 @@
 - [MLflow for GenAI](https://docs.databricks.com/mlflow3/genai)
 - [Model serving](https://docs.databricks.com/machine-learning/model-serving/)
 - [Vector Search](https://docs.databricks.com/generative-ai/vector-search)
+- [LLM TXT](https://docs.databricks.com/api/llms.txt)
