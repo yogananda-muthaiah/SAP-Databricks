@@ -10,6 +10,7 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-store-and-manage-sap-secrets-using-sap-databricks-cli-a-developer-s/ba-p/14323394
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-alerts-send-email-notification-for-real-time-monitoring-made/ba-p/14323579
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-best-practices-sql-query-performance-tuning-tips/ba-p/14333512
+* https://community.sap.com/t5/technology-blog-posts-by-sap/breaking-sap-data-barriers-with-datasphere-amp-databricks-a-medallion/ba-p/14334681
 
 
 
