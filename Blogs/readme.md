@@ -11,6 +11,8 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-alerts-send-email-notification-for-real-time-monitoring-made/ba-p/14323579
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-best-practices-sql-query-performance-tuning-tips/ba-p/14333512
 * https://community.sap.com/t5/technology-blog-posts-by-sap/breaking-sap-data-barriers-with-datasphere-amp-databricks-a-medallion/ba-p/14334681
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-ord-made-simple-what-it-does-and-why-it-s-crucial-in-your-sap-landscape/ba-p/14338793
+* https://community.sap.com/t5/technology-blog-posts-by-sap/where-ord-is-used-in-sap-datasphere-sap-business-data-cloud-amp-sap/ba-p/14338867
 
 
 
