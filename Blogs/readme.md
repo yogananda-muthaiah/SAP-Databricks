@@ -13,6 +13,8 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/breaking-sap-data-barriers-with-datasphere-amp-databricks-a-medallion/ba-p/14334681
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-ord-made-simple-what-it-does-and-why-it-s-crucial-in-your-sap-landscape/ba-p/14338793
 * https://community.sap.com/t5/technology-blog-posts-by-sap/where-ord-is-used-in-sap-datasphere-sap-business-data-cloud-amp-sap/ba-p/14338867
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-data-classification-a-practical-guide-for-modern-data/ba-p/14342870
+* https://community.sap.com/t5/technology-blog-posts-by-sap/integrating-sap-databricks-with-sap-cpq-and-sap-datasphere-for-analytics/ba-p/14342878
 
 
 
