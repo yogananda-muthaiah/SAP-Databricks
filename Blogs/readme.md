@@ -15,6 +15,8 @@
 * https://community.sap.com/t5/technology-blog-posts-by-sap/where-ord-is-used-in-sap-datasphere-sap-business-data-cloud-amp-sap/ba-p/14338867
 * https://community.sap.com/t5/technology-blog-posts-by-sap/sap-databricks-data-classification-a-practical-guide-for-modern-data/ba-p/14342870
 * https://community.sap.com/t5/technology-blog-posts-by-sap/integrating-sap-databricks-with-sap-cpq-and-sap-datasphere-for-analytics/ba-p/14342878
+* https://community.sap.com/t5/technology-blog-posts-by-sap/top-sql-queries-every-sap-databricks-admins-should-keep-in-your-back-pocket/ba-p/14338410
+* https://community.sap.com/t5/technology-blog-posts-by-sap/why-sap-databricks-genie-is-a-game-changer-key-benefits-and-expert-tips/ba-p/14360144
 
 
 
