@@ -6,6 +6,7 @@
 * [Databricks - AWS Documentation](https://docs.databricks.com/aws/en/introduction/)
 * [Databricks - SAP Documentation](https://docs.databricks.com/sap/en)
 * [SAP Business Data Cloud Capacity Unit Estimator](https://bdc-pricing-estimator-sac-sacus10.cfapps.us10.hana.ondemand.com/)
+* [Databricks Status](https://status.databricks.com/)
 
 
 ### SAP Learnings
